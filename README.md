@@ -1,4 +1,4 @@
- # FCC - Survey Form
+ # FCC - Tribute Page
 
 Project made for the freeCodeCamp Responsive Web Design course with HTML and CSS.
 
