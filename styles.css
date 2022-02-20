@@ -1,0 +1,64 @@
+body {
+  background-color: #ECECEC;
+}
+
+#main {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  border-radius: 0.3rem;
+  
+  font-family: 'Montserrat', serif;
+  text-align: center;
+  color: #2C2D32;
+}
+
+#header {
+  margin-top: 2rem;
+}
+
+#header small {
+  font-size: 1rem;
+} 
+#img-div {
+  background-color: white;
+  border-radius: 0.4rem;
+  padding: 0.5rem;
+}
+
+#image {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+#img-caption {
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+main h3 {
+  font-size: 1rem;
+  margin-top: 1.5rem;
+}
+
+#tribute-info {
+  margin: 1.5rem 2rem 0 2rem;
+  font-size: 0.9rem;
+  text-align: start;
+  
+}
+
+#tribute-info ul li {
+  margin-top: 1rem;
+}
+
+#quote {
+  margin: 1.5rem 4rem 1.5rem 4rem;
+  text-align: start;
+  font-style: italic;
+}
+
+#tribute-link {
+  color: #75668B;
+}
