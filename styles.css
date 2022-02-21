@@ -1,3 +1,5 @@
+/* NOTE: had to use ids instead of classes because of FCC's requirements to pass the tests */
+
 body {
   background-color: #ECECEC;
 }
