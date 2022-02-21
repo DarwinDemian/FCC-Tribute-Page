@@ -3,7 +3,7 @@
 Project made for the freeCodeCamp Responsive Web Design course with HTML and CSS.
 
 ## Screenshot
-![screenshot](https://github.com/DarwinDemian/FCC-Survey-Form/blob/6315cc357969a749f47e2754c608a74c5fefb7ea/FCC-Survey-Form-Screenshot.png)
+![screenshot](https://github.com/DarwinDemian/FCC-Tribute-Page/blob/aa4709834dd74f2546d45a98cf667a4852ea885d/FCC-Tribute-Page-Screenshot.png)
 
 See the project in action on Codepen:
 https://codepen.io/darwindemian/full/gORvOmb
