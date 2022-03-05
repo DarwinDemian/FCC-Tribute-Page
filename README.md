@@ -4,10 +4,10 @@ Project made for the freeCodeCamp Responsive Web Design course with HTML and CSS
 
 ## Screenshots
 #### Desktop:
-![screenshot]()
+![screenshot](https://github.com/DarwinDemian/FCC-Tribute-Page/blob/7fba411378cb45875a324cb6c5881bf2e7e93aca/desktop.png)
 
 #### Mobile:
-![screenshot]()
+![screenshot](https://github.com/DarwinDemian/FCC-Tribute-Page/blob/7fba411378cb45875a324cb6c5881bf2e7e93aca/mobile.png)
 
 ## Live Website
 See the project in action on Codepen:
